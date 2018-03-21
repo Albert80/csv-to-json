@@ -1,0 +1,14 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "Module 1 Assignment Lab: CSV to JSON",
+  "main": "lab1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cesar Alberto Trejo",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "csvtojson": "1.1.9"
+  }
+}
