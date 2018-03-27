@@ -9,6 +9,7 @@
   "author": "Cesar Alberto Trejo",
   "license": "UNLICENSED",
   "dependencies": {
-    "csvtojson": "1.1.9"
+    "csvtojson": "1.1.9",
+    "request": "^2.85.0"
   }
 }
