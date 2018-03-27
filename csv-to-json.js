@@ -23,7 +23,7 @@ csv().fromStream(request.get(csvFileUrl))/*.on('csv', (csvRow) => {
 	if (error) return process.exit(1)
 	console.log(data)
 	// Continue writing data on JSON file
-	fs.writeFile('customer-data.json', JSON.stringify(data), (error) => {
+	fs.writeFile('customer-data.json', JSON.stringify(data, null, 2), (error) => {
 		if (error) return process.exit(1)
 		console.log('Process finished')
 		process.exit(0)
