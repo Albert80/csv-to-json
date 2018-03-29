@@ -1,3 +1,93 @@
+commit eadb05592e8c97ebca2bd08ba588d7a0c970d74e
+Author: César Alberto Trejo <cesaratj27@gmail.com>
+Date:   Tue Mar 27 01:08:44 2018 -0600
+
+    Los resultados ya fueron actualizados
+
+commit b48cd62dcc6ae87274c42c8d541e42bfa6fa0aa8
+Author: César Alberto Trejo <cesaratj27@gmail.com>
+Date:   Tue Mar 27 01:06:02 2018 -0600
+
+    Archivo actualizado para una mejor vista de impresion
+
+commit 241f0d448b99dd4e7e9a421881b7c52d647d90eb
+Author: César Alberto <cesaratj27@gmail.com>
+Date:   Tue Mar 27 00:52:28 2018 -0600
+
+    Update README.md
+
+commit d302606ac1e246832e3aa605cbe264e11dfd8e85
+Author: César Alberto <cesaratj27@gmail.com>
+Date:   Tue Mar 27 00:51:43 2018 -0600
+
+    Update README.md
+
+commit 9aca54f88f0bc178447221cc8dc29e9ac4c9d91e
+Author: César Alberto <cesaratj27@gmail.com>
+Date:   Tue Mar 27 00:51:20 2018 -0600
+
+    Update README.md
+
+commit 7e4ae115025c5a284e3aa3d527137442c51c5496
+Author: César Alberto Trejo <cesaratj27@gmail.com>
+Date:   Tue Mar 27 00:49:20 2018 -0600
+
+    Todo subido, todo en orden
+
+commit 098080076b2ed548dcc187a77964a10d63a983d0
+Author: César Alberto Trejo <cesaratj27@gmail.com>
+Date:   Mon Mar 26 23:51:48 2018 -0600
+
+    Actualizado csv-to-json.js
+
+commit 6ea360e382203391bd5db699bd655f116d8fb2e6
+Author: César Alberto Trejo <cesaratj27@gmail.com>
+Date:   Mon Mar 26 23:48:39 2018 -0600
+
+    Archivo csv dado de alta
+
+commit 433a5b273ebab202937e12455646bbbb679d6e92
+Author: César Alberto <cesaratj27@gmail.com>
+Date:   Mon Mar 26 13:45:23 2018 -0600
+
+    Update README.md
+
+commit 65ee82e62ab8d1b857d137c3d61a82dd03093125
+Author: César Alberto Trejo <cesaratj27@gmail.com>
+Date:   Mon Mar 26 12:18:49 2018 -0600
+
+    Agrego archivo principal modificado
+
+commit 44e857ff77cd35b5b264c6842be45fea55061ad8
+Author: César Alberto Trejo <cesaratj27@gmail.com>
+Date:   Mon Mar 26 12:15:25 2018 -0600
+
+    Agrego archivo principal
+
+commit a2317e9b97881d9ae066f920f2d16cc80a089b85
+Author: César Alberto <cesaratj27@gmail.com>
+Date:   Tue Mar 20 20:17:04 2018 -0600
+
+    Update README.md
+
+commit 2bd1ac21190f8a6d55a9155147eb9a79738fec58
+Author: César Alberto Trejo <cesaratj27@gmail.com>
+Date:   Tue Mar 20 20:05:26 2018 -0600
+
+    rm a README
+
+commit 41a711528eedf90d61a9a666a7ec45ac7bbf92fe
+Author: César Alberto Trejo <cesaratj27@gmail.com>
+Date:   Tue Mar 20 20:04:08 2018 -0600
+
+    Se sustituyo README por README.md
+
+commit 4e0b1d93b87070f8b20e3746c84655718d9d6051
+Author: César Alberto Trejo <cesaratj27@gmail.com>
+Date:   Tue Mar 20 19:03:14 2018 -0600
+
+    Agregue README al proyecto csv-to-json
+
 commit 6fc5c89291a4c65995bb01eeddcbd83fa3b83ddf
 Author: César Alberto Trejo <cesaratj27@gmail.com>
 Date:   Tue Mar 20 18:05:53 2018 -0600
