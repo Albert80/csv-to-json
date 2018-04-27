@@ -10,6 +10,7 @@
   "license": "UNLICENSED",
   "dependencies": {
     "csvtojson": "1.1.9",
-    "request": "^2.85.0"
+    "hoek": "5.0.3",
+    "request": "2.85.0"
   }
 }
